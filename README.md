@@ -37,5 +37,6 @@ int main()
 # OUTPUT
 ![alt text](<Screenshot (29).png>)
 
+
 # RESULT
    Thus the Implementation of Pseudorandom Number Generation Using Standard library was executed successfully.
